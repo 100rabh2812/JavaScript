@@ -2,12 +2,12 @@
 
 // function func(){
 //     console.log("s");
-// console.log("a");
-// console.log("u");
-// console.log("r");
-// console.log("a");
-// console.log("b");
-// console.log("h");
+//     console.log("a");
+//     console.log("u");
+//     console.log("r");
+//     console.log("a");
+//     console.log("b");
+//     console.log("h");
 
 // }
 // func()   //  func is referances.   ()   // is execution
